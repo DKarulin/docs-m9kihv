@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-usfey6.suster123syq.site/sitemap.xml
